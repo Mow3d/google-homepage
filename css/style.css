@@ -61,7 +61,7 @@ input[type=text]{
     border-width: 0.1px;
     border-radius: 27px;
     border-style: solid;
-    background-image: url(images/lupita.png);
+    background-image: url(/images/lupita.png);
     background-repeat: no-repeat;
     padding: 5px;
     padding-left: 40px;
